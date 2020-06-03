@@ -16,7 +16,7 @@ import org.junit.Test;
 
 /**
  * The ModelTest class.
- * @author group 12 olivia serge yves-alexis
+ * @author groupe 12 Olivia Serge Yves-Alexis
  * @version 1.0
  *
  */
