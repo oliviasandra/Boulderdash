@@ -21,7 +21,7 @@ public abstract class Entity {
 	/** The boolean that indicates if the entity if falling or not */
 	private boolean isFallen;
 	/** The strategy of the entity */
-	private Strategy<?> strategy;
+	private Strategy<?> strategy;       
 	
 	/**
 	 * The Entity's constructor 
