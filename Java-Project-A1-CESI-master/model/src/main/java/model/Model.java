@@ -74,7 +74,7 @@ public final class Model extends Observable implements IModel {
 				e.printStackTrace();
 			}
 		} else {
-				throw new IndexOutOfBoundsException("L'ID est incorrect désolé !")
+				throw new IndexOutOfBoundsException("L'ID est incorrect désolé !");
 		}
 	}
 
