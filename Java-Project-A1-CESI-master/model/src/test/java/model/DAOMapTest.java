@@ -12,7 +12,7 @@ import com.databaseconnection.DBConnection;
 
 /**
  * The DAOPMapTest class.
- * @author group 12 olivia serge yves-alexis
+ * @author group 12 Olivia Serge Yves-Alexis
  * @version 1.0
  *
  */
