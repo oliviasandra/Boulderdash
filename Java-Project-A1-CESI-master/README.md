@@ -30,7 +30,7 @@ You can have an idea of what the game consists in by visiting https://www.retrog
 To play our game, while having all our code, you will have to download the multiple files of this subject. To do this you can either download each file or enter this in your terminal :
   
 ```
-git clone <https://github.com/AntoineChvl/JPU-BlankProject.git>
+git clone https://github.com/oliviasandra/Boulderdash
 ```
 
 Then, load the SQL script you downloaded right before in PhpMyAdmin. Start Eclipse and go into the “main” search for the *main.java* class. Run.
