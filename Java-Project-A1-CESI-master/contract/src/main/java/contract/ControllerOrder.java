@@ -21,7 +21,7 @@ public enum ControllerOrder {
 	Map5,
 	/** The sixth map */
 	Map6,
-	/** The seventh map */
+	/** The seventh map */                   
 	Map7,
 	/** To go up */
 	A,
