@@ -11,7 +11,7 @@ import entity.Map;
 /**
  * The Model class.
  *
- * @author olivia serge yves-alexis
+ * @author Olivia Serge Yves-Alexis
  * @version 1.0
  */
 public final class Model extends Observable implements IModel {
@@ -74,7 +74,7 @@ public final class Model extends Observable implements IModel {
 				e.printStackTrace();
 			}
 		} else {
-				throw new IndexOutOfBoundsException("Incorrect id !");
+				throw new IndexOutOfBoundsException("L'ID est incorrect désolé !")
 		}
 	}
 
